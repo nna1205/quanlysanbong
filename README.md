@@ -1,10 +1,8 @@
-/*
 Program: Quản lý đặt sân
 Purpose: Project
 Author: Nguyễn Nhật Anh - 20203871
 Co-Author: Nguyễn Văn Dũng - 20203877
 Date: 24/02/2023
-*/
 
 Describtion:
 Project Quản lý đặt sân là ứng dụng web giúp cho người dùng là những chủ sân bóng quản lý sân và lịch đặt sân trở nên đơn giản và hiệu quả hơn.
